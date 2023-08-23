@@ -20,6 +20,8 @@ public class PracticeClass03 {
 		
 		//How How
 		
+		System.out.println("Hello Hello ");
+		
 		
 	}
 
