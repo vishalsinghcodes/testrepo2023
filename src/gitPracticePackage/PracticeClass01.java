@@ -25,6 +25,16 @@ public class PracticeClass01 {
 	
 	System.out.println("This is something added by user Y on 31 Aug 2024");
 	
+	System.out.println("This is for 3rd commit 123");
+	
+	System.out.println("This is for 4th Commit 123");
+	
+
+	System.out.println("This is second stash code");
+
+	System.out.println("This is the change I am stashing in my current working directory");
+
+	
 
 	}
 
